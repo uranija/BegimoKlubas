@@ -11,6 +11,4 @@ Address of the Business
 Description of business
 XML  includes a Relative Layout, project has one or more image views or text views, elements are specified in dp, text is specified in sp.
 
-        BegimoKlubas3/Screenshot_20190326-222150.png
-      
-![Screenshot_20190326-222150](https://user-images.githubusercontent.com/26045797/55034045-38479600-501d-11e9-87d1-9d2412893257.png)
+        
