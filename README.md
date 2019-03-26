@@ -13,3 +13,4 @@ XML  includes a Relative Layout, project has one or more image views or text vie
 
 
 ![begimas](https://user-images.githubusercontent.com/26045797/55034363-fec35a80-501d-11e9-9aa6-f1aef5eb601f.png)
+![begimas2](https://user-images.githubusercontent.com/26045797/55034633-8dd07280-501e-11e9-8f93-bbaa46376354.png)
