@@ -10,9 +10,9 @@ My project includes:
  -Description of sports activity
  
  Project Overview:
- -XML  includes a Relative Layout, 
- -Project has one or more image views or text views, 
- -Elements are specified in dp, text is specified in sp.
+ - XML  includes a Relative Layout, 
+ - Project has one or more image views or text views, 
+ - Elements are specified in dp, text is specified in sp.
 
 
 ![begimas](https://user-images.githubusercontent.com/26045797/55034363-fec35a80-501d-11e9-9aa6-f1aef5eb601f.png)
