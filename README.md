@@ -1,15 +1,15 @@
 # ABND First project
 ## BegimoKlubas
 Project Overview:
-I had to design and implement a single screen app, that displays information about a fictional small business, sports team, school or special interest group. I decided to do it for my cousins sports club. 
-My project includes:
+I had to design and implement a single screen app, that displays information about a small business, sports team, school or special interest group. I decided to do it for my cousins sports club. 
+## My project includes:
 - Sports club name
 - One photo representing the sports club
 - Contact information for the sports club (eg phone number, email address, website)
 - Address of the sports club
  -Description of sports activity
  
- Project Overview:
+ ## Project Overview:
  - XML  includes a Relative Layout, 
  - Project has one or more image views or text views, 
  - Elements are specified in dp, text is specified in sp.
