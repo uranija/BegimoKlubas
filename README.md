@@ -1,6 +1,6 @@
 # ABND First project
 ## BegimoKlubas
-Project Overview:
+Project main objective:
 I had to design and implement a single screen app, that displays information about a small business, sports team, school or special interest group. I decided to do it for my cousins sports club. 
 ## My project includes:
 - Sports club name
